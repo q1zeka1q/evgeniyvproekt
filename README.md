@@ -17,3 +17,6 @@ Mingit tekst, mis lihtsalt kasutamiseks tehtud:
   <a href= "https://evgeniyvasiliev24.thkit.ee/wp/" target="_blank">Link</a>
 
    This site was built using [GitHub Pages](https://pages.github.com/).
+
+
+![image](https://github.com/user-attachments/assets/65c7f20d-244c-473c-8e55-375c05616198)
