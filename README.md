@@ -6,11 +6,11 @@ Mingit tekst, mis lihtsalt kasutamiseks tehtud:
 * Add
 * Commit
 * Push
-  
+  ```
   git add.
   git commit -a -m "commit sisu"
   git push
-  
+  ```
   <a href= "#readme-top">Back</a>
 
   Vaata ka minu konspekti WP-portfoolios:
