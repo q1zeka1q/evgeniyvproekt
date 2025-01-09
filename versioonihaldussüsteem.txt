@@ -1,1 +1,3 @@
 Mis on versioonihaldussüsteemi (VCS) peamine eesmärk?
+
+Versioonihaldussüsteemi (VCS) peamine eesmärk on jälgida ja hallata koodi muudatusi ajas ning toetada koostööd mitme arendaja vahel.
