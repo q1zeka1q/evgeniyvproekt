@@ -1,1 +1,10 @@
 Kuidas saab Trellos lisada kaardile tähtaega?
+Ava kaardi detailvaade: Klõpsa kaardil, millele soovid tähtaega lisada.
+
+Leia "Tähtaeg" (DueDate) nupp: Paremal paneeli menüüs näed nuppu, millel on kellakese ikoon ja mis ütleb "Tähtaeg" või "DueDate" olenevalt sellest, kas kasutad eestikeelset või ingliskeelset liidest.
+
+Vali kuupäev ja kellaaeg: Klõpsa nupul. Seejärel ilmub kalendrivaade, kus saad valida tähtaegse kuupäeva ja kellaaja.
+
+Määra meeldetuletus (vajadusel): Sa saad määrata, kas soovid saada meeldetuletust tähtaja saabudes, ja millal. Valikud on tavaliselt mõned minutid, tunnid või päevad enne tähtaega.
+
+Salvesta: Pärast kuupäeva, kellaaja ja meeldetuletuse seadmist vajuta "Salvesta".
