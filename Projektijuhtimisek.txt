@@ -1,1 +1,11 @@
 Kuidas saab Trellos lisada kaardile tähtaega?
+
+Trellos tähtaegu lisamiseks järgige neid sammu:
+
+Avage Trello ja valige soovitud tahvel ja loend.
+
+Klõpsake või puudutage loendi ülaosas nuppu "Lisa kaart".
+
+Sisestage kaardile nimi ja klõpsake nuppu "Lisa tähtaeg".
+
+Valige tähtaeg ja klõpsake "Salvesta".
